@@ -9,8 +9,8 @@ for i in 0..(k-1) do
 end
 for i in 0..(k-1) do
 	if a[i] == "YES" then
-		print "YES\n"
+		puts "YES"
 	else
-		print "NO\n"
+		puts "NO"
 	end
 end
